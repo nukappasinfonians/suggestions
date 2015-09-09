@@ -1,2 +1,2 @@
-# absenceRequest
-Webapp for managing absence request
+# suggestions
+Webapp for submitting anonymous suggestions
